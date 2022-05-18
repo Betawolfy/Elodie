@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# les règles du serveurs.
 
-You can use the [editor on GitHub](https://github.com/Betawolfy/Elodie/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## A noter: ces règles ne sont pas rétroactive. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# I - la survie: les principes.
 
-### Markdown
+- Il est strictement interdit de build dans le spawn et dans ces environs, quelque soit la raison. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Les équipes n'ont pas le droit de s'allier. Ils peuvent par contre réaliser des achats chez les autres.
 
-```markdown
-Syntax highlighted code block
+- l'utilisation de cheat, que se soit un logiciel ou un pack de texture (qui rend l'eau transparent, par exemple), ou l'abus de permission dans la console est interdit.
 
-# Header 1
-## Header 2
-### Header 3
+- Si vous suspecter quelqu'un de tricher, merci de réunir les preuves néssésaire avant de prévenir Wolfy.
 
-- Bulleted
-- List
+- les équipes qui réaliseront des REC et qui les donne à Wolfy peuvent recevoir une récompense.
 
-1. Numbered
-2. List
+- Il est interdit de piéger les portails du nether. 
 
-**Bold** and _Italic_ and `Code` text
+# II - la survie: les équipes.
 
-[Link](url) and ![Image](src)
-```
+- chaque équipe possèdent un objet fétiche, ils sont autorisés à le garder sur eux et se déconnecter avec jusqu'au 20 mai. à partir du 20 mai, l'objet derva être dans un coffre.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- les équipes ont le droit de faire une base sous terre, mais il sera nécessaire de garder un signe montrant qu'il y a une base ( un trou avec des torches ou une maison par exemple.
 
-### Jekyll Themes
+- les fausses bases, comme les leurres, sont autorisés, mais il doit y avoir un signe pour prévenir qu'il s'agit d'une fausse (un papier renommé "ceci est une fausse base", par exemple). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Betawolfy/Elodie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Si le chef d'une équipe n'est pas très actif, il a le droit de nommer un chef en intérim. Si il est inactif durant 1 semaine sans aucune justification, un nouveau chef sera désigné. 
 
-### Support or Contact
+- Si un membre est pris à tricher, il sera tenu seul responsable uniquement si ses coéquipiers ne sont pas complice.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# III - la survie: l'économie.
+
+- La monnaie/minerai servant d'argent est déterminé par un vote entre les joueurs du serveur. 
+
+- les équipes ont le droit de vendre des objets, les deux moyens pour payer est le trading ou le paiement avec l'argent du serveur.
+
+- Tout arnaques est interdit, quelque soit sa forme.
+
+- il est interdit de vendre un membre de son équipe. (on sait jamais).
+
+note: ces règles ne sont pas fini, elles risquent d'être modifié régulièrement.
